@@ -1,4 +1,4 @@
-# Aplikasi-Pembayaran-SPP-Berbasis-Website
+# Aplikasi-Pembayaran-Syahriah-Pondok-Pesantren-Daarun-Nizam
 
 Fitur Fitur 
 
